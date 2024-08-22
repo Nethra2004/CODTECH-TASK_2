@@ -1,11 +1,11 @@
 # Building a Serverless Application with AWS Lambda
 
-**NAME:** Nethra V  
-**COMPANY:** CodTech IT Solutions  
-**INTERN ID:** CT08DS5285  
-**DOMAIN:** Cloud Computing  
-**BATCH DURATION:** 23 July to 23 August 2024  
-**MENTOR:** Muzammil Ahmed  
+ - **NAME:** NETHRA V
+ - **COMPANY:** CODTECH IT SOLUTIONS
+ - **INTERN ID:** CT08DS5285  
+ - **DOMAIN:** CLOUD COMPUTING 
+ - **BATCH DURATION:** 23 JULY to 23 AUGUST 2024  
+ - **MENTOR:** MUZAMMIL AHMED
 
 ## Project Description
 
