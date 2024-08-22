@@ -89,15 +89,21 @@ This project involves deploying a serverless web application using AWS Lambda an
 
 ![Screenshot (636)](https://github.com/user-attachments/assets/eaa845a3-462d-4409-a53e-b09b372f3533) 
 
- ## Editing Lambda Function Code in AWS Console
+## Editing Lambda Function Code in AWS Console
 
  ![Screenshot (637)](https://github.com/user-attachments/assets/ab5941c2-8d97-4423-a037-10a328c98f59)
 
- ## Configuring API Gateway Trigger for AWS Lambda Function
+## Configuring API Gateway Trigger for AWS Lambda Function
 
  ![Screenshot (638)](https://github.com/user-attachments/assets/32d903f6-4419-4027-ab89-9b12ba1f6f5f)
 
-  ## Dashboard View of AWS Lambda Function for Serverless Application Deployment
+## Dashboard View of AWS Lambda Function for Serverless Application Deployment
+
+ ![Screenshot (640)](https://github.com/user-attachments/assets/c89e9b10-3d8e-4321-942b-0f8b7198a9a0)
+
+## Deploying the Application 
+
+
 
   
 
