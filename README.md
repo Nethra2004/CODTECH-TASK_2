@@ -91,6 +91,12 @@ This project involves deploying a serverless web application using AWS Lambda an
 
  ## Editing Lambda Function Code in AWS Console
 
+ ![Screenshot (637)](https://github.com/user-attachments/assets/ab5941c2-8d97-4423-a037-10a328c98f59)
+
+ ## Configuring API Gateway Trigger for AWS Lambda Function
+
+ 
+
 
 
  
