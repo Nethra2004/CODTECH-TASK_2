@@ -95,7 +95,11 @@ This project involves deploying a serverless web application using AWS Lambda an
 
  ## Configuring API Gateway Trigger for AWS Lambda Function
 
- 
+ ![Screenshot (638)](https://github.com/user-attachments/assets/32d903f6-4419-4027-ab89-9b12ba1f6f5f)
+
+  ## Dashboard View of AWS Lambda Function for Serverless Application Deployment
+
+  
 
 
 
