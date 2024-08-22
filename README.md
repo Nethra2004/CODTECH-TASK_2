@@ -84,3 +84,11 @@ This project involves deploying a serverless web application using AWS Lambda an
    - Ensure that the responses are correct and that the Lambda function is triggered appropriately.
 
  The application is now live and can be accessed via the provided API Gateway URL.
+
+## Creating Lambda Function in AWS Console
+
+ ![Screenshot (636)](https://github.com/user-attachments/assets/d5a151c1-d361-40f3-a6c7-0e4e03e1009f)
+
+ ## Editing Lambda Function Code in AWS Console
+
+ 
