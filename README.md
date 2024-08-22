@@ -87,9 +87,11 @@ This project involves deploying a serverless web application using AWS Lambda an
 
 ## Creating Lambda Function in AWS Console
 
- 
+![Screenshot (636)](https://github.com/user-attachments/assets/eaa845a3-462d-4409-a53e-b09b372f3533) 
 
  ## Editing Lambda Function Code in AWS Console
+
+ 
 
 
 
