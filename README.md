@@ -103,6 +103,8 @@ This project involves deploying a serverless web application using AWS Lambda an
 
 ## Deploying the Application 
 
+![Screenshot (639)](https://github.com/user-attachments/assets/118c0272-666d-4b7b-b6fe-0ffebd1a20b5)
+
 
 
   
